@@ -67,7 +67,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 hypridle
-hyprland
+hyprland=0.53
 hyprland-guiutils
 hyprland-preview-share-picker
 hyprlock
